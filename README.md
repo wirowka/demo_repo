@@ -25,7 +25,7 @@ This is subsection.
 
 ## Local Development 5
 
-5. Do some silly things part #3
+5. Do some silly things part #3   
 
 ## Local Development 6
 
